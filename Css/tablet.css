@@ -1,0 +1,18 @@
+.table-slider-contain, .plans-container-slider{
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
+.container-black{
+display: flex;
+flex-wrap: wrap;
+width: 930px;
+margin: 100px auto;
+}
+.plans-container-slider{
+    justify-content: center;
+    
+}
+footer{
+    padding: 40px 200px;
+}
